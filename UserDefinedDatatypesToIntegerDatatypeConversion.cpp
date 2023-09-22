@@ -20,7 +20,7 @@ int main(){
 	user u;
 	int a;
 	a= 135;
-	u=a;
+	u=a; //where u is object(userdefined) whereas a is predefined 
 	u.display();
 	return 0;
 	
